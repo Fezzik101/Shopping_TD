@@ -1,3 +1,5 @@
+#TODO
+
 Make sure that it is easy to add new stuff whenever we want to
 
 Main menu
